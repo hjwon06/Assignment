@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreeWeekAssignment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_view">View</string>
+    <string name="menu_shop">Shop</string>
+    <string name="menu_menu">Menu</string>
+</resources>
